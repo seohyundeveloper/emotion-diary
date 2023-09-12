@@ -1,6 +1,5 @@
 import DiaryEditor from "../components/DiaryEditor";
 
-
 const New = () => {
   
   return (
@@ -9,5 +8,4 @@ const New = () => {
     </div>
   )
 }
-
 export default New;

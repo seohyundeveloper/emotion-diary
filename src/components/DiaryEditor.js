@@ -109,7 +109,7 @@ const DiaryEditor = ({isEdit, originData}) => {
               />
               <MyButton 
                   type={'positive'}
-                  text={'작성 완료'}
+                  text={ isEdit ? '수정 완료' : '작성 완료'}
                   onClick={handleSubmit}
               />
           </div>

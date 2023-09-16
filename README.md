@@ -1,6 +1,6 @@
 # React를 이용한 감정 일기장
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+하루하루 자신의 기분을 일기로 나타낼 수 있는 일기장 개인 프로젝트입니다.
 
 ## Available Scripts
 

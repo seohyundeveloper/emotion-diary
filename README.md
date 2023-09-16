@@ -2,9 +2,13 @@
 
 하루하루 자신의 기분을 일기로 나타낼 수 있는 일기장 개인 프로젝트입니다.
 
+---
+
 ## 소스 내려받기
 
 git clone https://github.com/seohyundeveloper/emotion-diary.git
+
+---
 
 ### 감정 일기장 프로젝트 실행하기
 

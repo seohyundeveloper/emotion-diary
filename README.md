@@ -12,11 +12,6 @@ npm start
 
 ※ Note: npm start가 실행되지 않는 경우 npm install을 진행한 후 다시 npm start를 실행해 주세요.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
 ### 감정일기장 작업물 보기
 
 https://seohyun-personal-project.web.app/

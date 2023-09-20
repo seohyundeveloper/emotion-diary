@@ -14,7 +14,7 @@ npm start
 
 ## 감정일기장 작업물 보기
 ```
-https://seohyun-personal-project.web.app/
+[링크]:(https://seohyun-personal-project.web.app/)
 ```
 ## 감정일기장 프로젝트 설명
 
